@@ -15,3 +15,19 @@
 ## Git Links
 
 [my git link](https://github.com/RoadToDevOpsWorld/)
+
+## Branching Strategy
+
+ - Create a branch
+ ``` 
+ git checkout -b feature-branch 
+ ```
+ - Merge a branch
+ ```
+ git checkout main
+ git merge feature-branch
+ ```
+ - Delete a branch 
+ ```
+ git branch -d feature-branch
+ ```
