@@ -14,7 +14,7 @@
 
 ## Git Links
 
-[my git link](https://github.com/RoadToDevOpsWorld/)
+[git link](https://github.com/RoadToDevOpsWorld/)
 
 ## Branching Strategy
 
@@ -31,3 +31,18 @@
  ```
  git branch -d feature-branch
  ```
+
+ # Pull Requests
+
+ ## commands for pull requests
+
+ ```
+    git push origin feature-requests
+ ```
+
+ ## On Github
+
+ **Go to the repository**
+    1.~~click~~ pull requests ---> New pull request
+    2.Select base branch and compare branch
+    3. Add title/description and submit
